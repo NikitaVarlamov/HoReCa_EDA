@@ -1,5 +1,5 @@
 # Переменные
-ealSum — Стоимость размещения за сутки (Numeric)
+realSum — Стоимость размещения за сутки (Numeric)
 room_type — Тип комнаты или номера (Categorical)
 room_shared — Есть комнаты совместного проживания (Boolean)
 room_private — Есть частные комнаты (Boolean)
